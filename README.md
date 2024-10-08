@@ -24,7 +24,7 @@ Brief description of the project and its core features.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Umeshkyadav314/your-repository.git
+    git clone https://github.com/Umeshkyadav314/Morden-Collage-Management-Dashboard.git
     cd your-repository
     ```
 
