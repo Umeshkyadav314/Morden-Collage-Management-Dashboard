@@ -47,7 +47,6 @@ and administrative processes. Here are the key details and features for each use
  - Fee Payment & Tracking: View fee invoices, make payments online, and track payment history.
  - Notifications & Alerts: Receive notifications about academic progress, attendance issues, and important school events.
 
-Brief description of the project and its core features.
 
 ## Tech Stack
 
