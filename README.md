@@ -27,7 +27,7 @@ and administrative processes. Here are the key details and features for each use
  - Fee & Financial Tracking: Manage tuition fees, dues, and financial reports.
  - Academic Calendar & Event Management: Oversee and update the calendar, including exams, holidays, and events.
  - Reports & Analytics: Generate insights on institution performance, student trends, and resource management.
- - 
+   
 # Teacher:
 - Attendance Management: Mark and track student attendance in real time.
 - Gradebook: Enter and update grades, create assessments, and track student performance.
